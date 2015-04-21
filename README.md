@@ -1,10 +1,13 @@
 #Bootstrap Form Builder
 
+Original Source with bootstrap v2:
+[Go to original repository](https://github.com/minikomi/Bootstrap-Form-Builder) by [minikomi](https://github.com/minikomi)
+
 ##What's this?
 
 A Drag-and-drop form builder for [twitter bootstrap](http://twitter.github.com/bootstrap/). 
 
-Currently using `v. 2.3.1` :dolphin:
+Currently using `v. 3.0.0`
 
 ##Where can I see it in action?
 
